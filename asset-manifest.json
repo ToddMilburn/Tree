@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/tree.git/static/css/main.073c9b0a.css",
-    "main.js": "/tree.git/static/js/main.12bb9e30.js",
-    "static/js/787.24e21142.chunk.js": "/tree.git/static/js/787.24e21142.chunk.js",
-    "static/media/logo.svg": "/tree.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/tree.git/index.html",
-    "main.073c9b0a.css.map": "/tree.git/static/css/main.073c9b0a.css.map",
-    "main.12bb9e30.js.map": "/tree.git/static/js/main.12bb9e30.js.map",
-    "787.24e21142.chunk.js.map": "/tree.git/static/js/787.24e21142.chunk.js.map"
+    "main.css": "/tree/static/css/main.073c9b0a.css",
+    "main.js": "/tree/static/js/main.79f6ef97.js",
+    "static/js/787.24e21142.chunk.js": "/tree/static/js/787.24e21142.chunk.js",
+    "static/media/logo.svg": "/tree/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tree/index.html",
+    "main.073c9b0a.css.map": "/tree/static/css/main.073c9b0a.css.map",
+    "main.79f6ef97.js.map": "/tree/static/js/main.79f6ef97.js.map",
+    "787.24e21142.chunk.js.map": "/tree/static/js/787.24e21142.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.12bb9e30.js"
+    "static/js/main.79f6ef97.js"
   ]
 }
