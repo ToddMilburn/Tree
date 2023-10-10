@@ -1,17 +1,19 @@
 import logo from './logo.svg';
 import './App.css';
 
-import NotMain from "./routes/NotMain";
+import { Routes, Route} from "react-router-dom";
+
+import Navbar from './Navbar';
 import Main from "./routes/Main";
+import NotMain from "./routes/NotMain";
 
 function App() {
   return (
       <>
         <Navbar />
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/careers" element={<Careers />} />
+          <Route path="/" element={<Main />} />
+          <Route path="/notMain" element={<NotMain />} />
         </Routes>
       </>
   );
